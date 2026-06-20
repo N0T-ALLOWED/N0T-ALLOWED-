@@ -10,4 +10,6 @@
   <p align="center">
 <a href="https://guns.lol/fateofophelia">guns.lol
     <p align="center">
-<a href="https://www.instagram.com/2.roseprims?igsh=ZThhenp6ZTRzdzNr">Instagram 
+<a href="https://www.instagram.com/2.roseprims?igsh=ZThhenp6ZTRzdzNr">Instagram
+  <p align="center">
+<a href="https://inoukiroji.straw.page">Straw
