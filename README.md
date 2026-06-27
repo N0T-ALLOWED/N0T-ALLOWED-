@@ -9,7 +9,7 @@
 </p>
 </p>
   <p align="center">
-<a href="https://guns.lol/fateofophelia">guns.lol
+<a href="https://guns.lol/opheia">guns.lol
     <p align="center">
 <a href="https://www.instagram.com/2.roseprims?igsh=ZThhenp6ZTRzdzNr">Instagram
   <p align="center">
