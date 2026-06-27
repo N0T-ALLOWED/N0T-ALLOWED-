@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inoue&label=LANCELOT&color=F3EAD3&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=inoue&label=LANCELOT&color=4D516D&style=flat" />
 </p>
   <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dro6xu46npnmvg5vh5wmlxeikm&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=e6bba8&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dro6xu46npnmvg5vh5wmlxeikm&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=4D516D&bar_color_cover=false">
   </a>
 </p>
 </p>
@@ -15,5 +15,5 @@
   <p align="center">
 <a href="https://inoukiroji.straw.page">Straw
 <p align="center">
-  <img src="1000016707-removebg-preview.png" width="200">
+  <img src="42df9d71698928b1764a1de141451af3.gif" width="400">
 </p>
